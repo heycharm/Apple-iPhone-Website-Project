@@ -25,4 +25,4 @@ const App = ()=>{
   )
 }
 
-export default Sentry(App)
+export default (App)
