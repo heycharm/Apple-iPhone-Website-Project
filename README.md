@@ -1,1 +1,1 @@
-Deployment : https://iphone-charm.netlify.app/
+Live Preview : https://iphone-charm.netlify.app/
